@@ -20,7 +20,7 @@ devtools::install_github("ldvroditi/Franken")
 
 For a demo of how to use Franken please see file TestDataRun.R
 
-The prostate cancer data in the Franken pre-print will be published upon publication but the data in the demo (and used for benchmarking in the Bioarxiv manuscript) is from:
+The prostate cancer data in the Franken Bioarxiv pre-print will be published upon publication but the data in the demo (and used for benchmarking in the pre-print) is from:
 
 Single-Cell Mass Cytometry of Differential Immune and Drug Responses Across a Human Hematopoietic Continuum
 By Sean C. Bendall, Erin F. Simonds, Peng Qiu, El-ad D. Amir, Peter O. Krutzik, Rachel Finck, Robert V. Bruggner, Rachel Melamed, Angelica Trejo, Olga I. Ornatsky, Robert S. Balderas, Sylvia K. Plevritis, Karen Sachs, Dana Pe’er, Scott D. Tanner, Garry P. Nolan
