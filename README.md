@@ -26,7 +26,7 @@ Single-Cell Mass Cytometry of Differential Immune and Drug Responses Across a Hu
 By Sean C. Bendall, Erin F. Simonds, Peng Qiu, El-ad D. Amir, Peter O. Krutzik, Rachel Finck, Robert V. Bruggner, Rachel Melamed, Angelica Trejo, Olga I. Ornatsky, Robert S. Balderas, Sylvia K. Plevritis, Karen Sachs, Dana Pe’er, Scott D. Tanner, Garry P. Nolan
 Science06 May 2011 : 687-696 
 
-Please download the demo cytof data from figshare repo and save it in a folder of your choosing (the path to your data folder will henceforth be referred to as yourdatafolder):
+Please download the demo cytof data from figshare repo and save it in a folder of your choosing (the path to your data folder will henceforth be referred in TestDataRun.R as *yourdatafolder*):
 
 https://figshare.com/articles/Levine_32dim_fcs/11295719
 
