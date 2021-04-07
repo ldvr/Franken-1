@@ -6,7 +6,7 @@ Fast clustering pipeline for high-thoughtput single-cell data
 
 If you use the Franken package please use the following citation:
 
-Laura De Vargas Roditi, Andrea Jacobs, Jan H. Rueschoff, Pete Bankhead, Stephane Chevrier, Hartland W. Jackson, Thomas Hermanns, Christian D. Fankhauser, Cedric Poyet, Felix Chun, Niels J. Rupp, Alexandra Tschaebunin, Bernd Bodenmiller, Peter J. Wild
+Laura De Vargas Roditi, Andrea Jacobs, Jan H. Rueschoff, Pete Bankhead, Stephane Chevrier, Hartland W. Jackson, Thomas Hermanns, Christian D. Fankhauser, Cedric Poyet, Felix Chun, Niels J. Rupp, Alexandra Tschaebunin, Bernd Bodenmiller, Peter J. Wild. Single-Cell Proteomics Defines the Cellular Heterogeneity of Localized Prostate Cancer. 
 
 doi: https://doi.org/10.1101/2021.01.25.428046
 
